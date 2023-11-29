@@ -1,0 +1,11 @@
+CJM :
+  username: CJM    # user name : martin
+  name: CJM        # user full name : Martin Luther King
+  url_full:             # Homepage url
+  url:
+  bio: 개발을 즐기는 평범한 사람
+  # 회사정보 , 표현하고싶은 정보
+  picture: assets/built/images/author-logo.jpg   # author image 이후 원하는 사진으로 재 변경
+  facebook:             # facebook ID
+  twitter:              # twitter ID
+  cover: False
