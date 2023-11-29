@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /privateData/
+Sitemap: https://CJM0928.github.io/sitemap.xml
